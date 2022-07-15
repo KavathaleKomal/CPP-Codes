@@ -19,7 +19,7 @@ int main()
   }
   else
   {
-    cout << sum << " is not armstrong number" << endl;
+    cout << sum << " is not an armstrong number" << endl;
   }
   return 0;
 }
